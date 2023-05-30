@@ -1,4 +1,4 @@
-![React JS Product Landing Page Animate On Scroll](https://user-images.githubusercontent.com/82109268/201672491-28daa1bc-3aa9-49de-a72d-4baa1c08530e.jpg)
+<img src="src\assets\img\landingpage.png"  title="Landing Page">
 
 
 # Getting Started with Create React App
